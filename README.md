@@ -1,3 +1,3 @@
 # aaa_Useful_weblinks
-1. [AWS SDK for C++](github.com/awslabs/aws-sdk-cpp)
+1. [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
 2. ~
